@@ -1,6 +1,6 @@
 
 # Build a UBUNTU  based system
-FROM ubuntu:14.04
+FROM ubuntu:16.04
 
 MAINTAINER Paangiotis Korfiatis <Korfiatis.Panagiotis@mayo.edu>
 
